@@ -56,7 +56,7 @@ This end-to-end analytics project focuses on *analyzing vendor performance* usin
 ## 📌 How to Run the Project
 
 1. *Clone this repository*
-git clone https://github.com/your-username/vendor-performance-analysis.git
+git clone https://github.com/barkha2810/vendor-performance-analysis.git
 cd vendor-performance-analysis
 
 3. *Run the Jupyter Notebook*  
